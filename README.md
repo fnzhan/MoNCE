@@ -1,2 +1,2 @@
 # MoNCE
-Modulated Contrastive Learning for Versatile Image Synthesis
+Modulated Contrast for Versatile Image Synthesis
