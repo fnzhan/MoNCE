@@ -18,4 +18,8 @@ pip install -r requirements.txt
 ````
 
 ## Inference Using Pretrained Model
+#CUT
+#
 
+
+## Training
