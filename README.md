@@ -7,6 +7,6 @@
 Nanyang Technological University, Singapore <br>
 
 ## Prerequisites
-- [Pytorch](http://pytorch.org/)
-- [torchvision](https://github.com/pytorch/vision)
-- [opencv](https://opencv.org/) for video generation
+- Linux or macOS
+- Python3, PyTorch
+- CPU or NVIDIA GPU + CUDA CuDNN
