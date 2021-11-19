@@ -10,3 +10,12 @@ Nanyang Technological University, Singapore <br>
 - Linux or macOS
 - Python3, PyTorch
 - CPU or NVIDIA GPU + CUDA CuDNN
+
+## Installation
+Install dependencies:
+```bash
+pip install -r requirements.txt
+````
+
+## Inference Using Pretrained Model
+
