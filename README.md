@@ -1,4 +1,5 @@
 # Modulated Contrast for Versatile Image Synthesis
+![Teaser](teaser.png)
 
 ## [Project page](https://sites.google.com/view/fnzhan) |   [Paper](https://arxiv.org/abs/) | [Video](https://www.youtube.com/)
 <!-- Modulated Contrast for Versatile Image Synthesis (Arxiuv). -->
