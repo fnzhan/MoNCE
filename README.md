@@ -13,14 +13,47 @@ Nanyang Technological University, Singapore <br>
 - CPU or NVIDIA GPU + CUDA CuDNN
 
 ## Installation
-Install dependencies:
+Please follow the guidance in [SPADE](https://github.com/NVlabs/SPADE) and [CUT](https://github.com/taesungp/contrastive-unpaired-translation).
+<!-- Install dependencies: -->
 ```bash
 pip install -r requirements.txt
 ````
 
 ## Inference Using Pretrained Model
-#CUT
-#
+# Unpaired Image Translation (CUT)
+The pretrained model on Cityscapes can be downloaded from [here](https://drive.google.com/file/d/1Z8B3fdU_suB8dJswR-QPwh-eZfkxSP7F/view?usp=sharing).
+
+# Paired Image Translation (SPADE)
+The pretrained model on ADE20K will be released soon.
+<!-- can be downloaded from [here](https://drive.google.com/file/d/1Z8B3fdU_suB8dJswR-QPwh-eZfkxSP7F/view?usp=sharing). -->
 
 
 ## Training
+# Unpaired Image Translation (CUT)
+Then run the command 
+````
+cd CUT_MoNCE
+bash train_cityscapes.sh
+````
+
+# Paired Image Translation (SPADE)
+Then run the command 
+````
+cd SPADE_MoNCE
+bash train_ade20k.sh
+````
+
+
+### Citation
+If you use this code for your research, please cite our papers.
+```
+@inproceedings{zhan2022monce,
+  title={Modulated Contrast for Versatile Image Synthesis},
+  author={Fangneng Zhan, Jiahui Zhang, Yingchen Yu, Rongliang Wu, Shijian Lu},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2022}
+}
+```
+
+## Acknowledgments
+We thank [CUT](https://github.com/taesungp/contrastive-unpaired-translation) and [SPADE](https://github.com/NVlabs/SPADE).
