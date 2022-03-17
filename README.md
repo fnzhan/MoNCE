@@ -28,21 +28,21 @@ The pretrained model on ADE20K will be released soon.
 
 ## Training
 #### Unpaired Image Translation (CUT)
-Then run the command 
+Run the command 
 ````
 cd CUT_MoNCE
 bash train_cityscapes.sh
 ````
 
 #### Paired Image Translation (SPADE)
-Then run the command 
+Run the command 
 ````
 cd SPADE_MoNCE
 bash train_ade20k.sh
 ````
 
 
-### Citation
+## Citation
 If you use this code for your research, please cite our papers.
 ```
 @inproceedings{zhan2022monce,
