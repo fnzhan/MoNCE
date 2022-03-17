@@ -14,14 +14,12 @@ Nanyang Technological University, Singapore <br>
 
 ## Installation
 Please follow the guidance in [SPADE](https://github.com/NVlabs/SPADE) and [CUT](https://github.com/taesungp/contrastive-unpaired-translation).
-<!-- Install dependencies: -->
-```bash
-pip install -r requirements.txt
-````
+
 
 ## Inference Using Pretrained Model
 # Unpaired Image Translation (CUT)
-The pretrained model on Cityscapes can be downloaded from [here](https://drive.google.com/file/d/1Z8B3fdU_suB8dJswR-QPwh-eZfkxSP7F/view?usp=sharing).
+The pretrained model on Cityscapes can be downloaded from [here](https://drive.google.com/file/d/1Z8B3fdU_suB8dJswR-QPwh-eZfkxSP7F/view?usp=sharing). Put them into CUT_MoNCE/checkpoints.
+
 
 # Paired Image Translation (SPADE)
 The pretrained model on ADE20K will be released soon.
