@@ -1,10 +1,10 @@
 # Modulated Contrast for Versatile Image Synthesis
 ![Teaser](teaser.png)
 
-## [Project page](https://sites.google.com/view/fnzhan) |   [Paper](https://arxiv.org/abs/) | [Video](https://www.youtube.com/)
+## [Paper](https://arxiv.org/abs/)  |  [Project page](https://sites.google.com/view/fnzhan)  | [Video](https://www.youtube.com/)
 <!-- Modulated Contrast for Versatile Image Synthesis (Arxiuv). -->
 <!-- <br> -->
-[Fangneng Zhan](http://fnzhan.net/), [Jiahui Zhang]( ), [Yingchen Yu](https://scholar.google.com.sg/citations?user=0cet0X8AAAAJ&hl=en), [Rongliang Wu](https://scholar.google.com.sg/citations?user=SZkh3iAAAAAJ&hl=en), [Shijian Lu](https://scholar.google.com.sg/citations?user=uYmK-A0AAAAJ&hl=en) <br>
+[Fangneng Zhan](https://fnzhan.com), [Jiahui Zhang](https://scholar.google.com.sg/citations?user=DXpYbWkAAAAJ&hl=en), [Yingchen Yu](https://scholar.google.com.sg/citations?user=0cet0X8AAAAJ&hl=en), [Rongliang Wu](https://scholar.google.com.sg/citations?user=SZkh3iAAAAAJ&hl=en), [Shijian Lu](https://scholar.google.com.sg/citations?user=uYmK-A0AAAAJ&hl=en) <br>
 Nanyang Technological University, Singapore <br>
 
 ## Prerequisites
