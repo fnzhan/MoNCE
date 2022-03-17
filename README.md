@@ -18,8 +18,7 @@ Please follow the guidance in [SPADE](https://github.com/NVlabs/SPADE) and [CUT]
 
 ## Inference Using Pretrained Model
 #### Unpaired Image Translation (CUT):
-The pretrained model on Cityscapes can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1QXwLzRN5EuKmtvXzWKW9pAc3npMCFeON?usp=sharing). Put them into CUT_MoNCE/checkpoints.
-Then run the command 
+The pretrained model on Cityscapes can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1QXwLzRN5EuKmtvXzWKW9pAc3npMCFeON?usp=sharing). Put them into CUT_MoNCE/checkpoints and run the command 
 ````
 cd CUT_MoNCE
 bash test_cityscapes.sh
