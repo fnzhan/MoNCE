@@ -67,4 +67,4 @@ If you use this code for your research, please cite our papers.
 ```
 
 ## Acknowledgments
-We thank [CUT](https://github.com/taesungp/contrastive-unpaired-translation) and [SPADE](https://github.com/NVlabs/SPADE).
+This code borrows heavily from [CUT](https://github.com/taesungp/contrastive-unpaired-translation) and [SPADE](https://github.com/NVlabs/SPADE).
