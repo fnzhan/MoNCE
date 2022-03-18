@@ -48,7 +48,7 @@ bash train_ade20k.sh
 
 ## Citation
 If you use this code for your research, please cite our papers.
-```
+```bibtex
 @inproceedings{zhan2022monce,
   title={Modulated Contrast for Versatile Image Synthesis},
   author={Fangneng Zhan, Jiahui Zhang, Yingchen Yu, Rongliang Wu, Shijian Lu},
