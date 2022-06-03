@@ -5,7 +5,7 @@ srun -o file.out -e file.err -p dsta --mpi=pmi2 \
 -w SG-IDC1-10-51-2-37 \
 python3 train.py \
 --dataroot /mnt/lustre/fnzhan/projects/aaai2022/CUT/datasets/horse2zebra \
---name horse2zebra_hard0.1 \
+--name horse2zebra \
 --CUT_mode CUT \
 --cost_type 'hard' \
 --eps 0.1 \
