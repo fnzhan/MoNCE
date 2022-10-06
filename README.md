@@ -38,7 +38,7 @@ bash test_cityscapes.sh
 
 
 #### Paired Image Translation (SPADE):
-The pretrained model on ADE20K, CelebA-HQ, DeepFashion can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1MxTTrx7PgIfdmzZxvlk8U_ExFTye6MV7?usp=sharing). Put them into SPADE_MoNCE/checkpoints and run the command 
+The pretrained model on ADE20K, CelebA-HQ (semantic), DeepFashion can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1MxTTrx7PgIfdmzZxvlk8U_ExFTye6MV7?usp=sharing). Put them into SPADE_MoNCE/checkpoints and run the command 
 ````
 cd SPADE_MoNCE
 bash test_ade20k.sh
